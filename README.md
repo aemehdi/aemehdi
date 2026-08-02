@@ -28,11 +28,11 @@ Hey there! I’m Aelric — an 18-year-old student from Algeria who’s endlessl
 
 </div>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelric1&theme=github-compact&radius=12&&line=36454F&area_color=808080&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aemehdi&theme=github-compact&radius=12&&line=36454F&area_color=808080&hide_border=true&area=true" />
 </a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aelric1&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelric1&theme=graywhite&text_color=9EBECB" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aemehdi&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aemehdi&theme=graywhite&text_color=9EBECB" width="45%" />
 </p>
 
  <p align="center">
