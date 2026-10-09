@@ -14,22 +14,23 @@ Hey there! I’m Aelric, a student from Algeria who’s endlessly curious about 
   <p> Feel free to browse around, drop a star, or join me on this adventure!</p>
 
   <div>
-   <hr>
+   
  <p align="left">
-  
-  <h2> Languages,Frameworks and Tools  :
-   <h2/>
- </p>
+  <h2> Languages,Frameworks and Tools  : <h2/>
+</p>
+   
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,debian,discord,linux,md,ps,pycharm,raspberrypi,replit,vscode" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,nodejs,mysql,html,python" />
   </a>
 </p>
+
 </div>
 
 <div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
