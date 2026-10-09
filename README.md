@@ -6,15 +6,12 @@
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
 
- <p > I'm a first-year Computer Science student from Algeria, <u> passionate about core fundamentals and problem-solving </u>.</p>   
+ <p > I'm a first-year Computer Science student from Algeria, <i> passionate about core fundamentals and problem-solving </i>.</p> <br> 
  <p><b>Feel free to browse around</b>, drop a star, or reach out if you'd like to collaborate or chat tech! </p>
- <br>
-  <br>
-   <br>
  
  
  <p align="left">
-  <h2> Languages,Frameworks and Tools  : <h2/>
+  <h2> Languages,Frameworks and Tools ⚙  : <h2/>
 </p>
    
 <p align="center">
