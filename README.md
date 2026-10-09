@@ -29,8 +29,6 @@
   </a>
 </p>
 
-</div>
-
  <p align="left">
   <h2> Statues 📊: <h2/>
 </p>
