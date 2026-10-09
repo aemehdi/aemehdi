@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handlee&pause=1000&color=27366FF6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+aemehdi+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=32&pause=1000&color=3A4D98&center=true&width=435&lines=Hi+there!++I'm+aemehdi.)](https://git.io/typing-svg)
 
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
- <p font-family: Coming Soon> 
+ <p font-family:PT Serif> 
 Hey there! I’m Aelric, a student from Algeria who’s endlessly curious about the world of computer science and the art of problem-solving.</p>
 <p>I treat every project like a puzzle waiting to be cracked, from small experiments to challenging builds that push my skills to the next level.</p>
 <p>
@@ -10,8 +10,9 @@ Hey there! I’m Aelric, a student from Algeria who’s endlessly curious about 
   <p> Feel free to browse around, drop a star, or join me on this adventure!</p>
 
   <div>
+   <hr>
  <p align="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Varela+Round&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=My+skills+%3A" alt="Typing SVG" /></a> 
+ ## Languages,Frameworks and Tools  :
  </p>
 <p align="center">
   <a href="https://skillicons.dev">
