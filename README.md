@@ -2,13 +2,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=32&pause=1000&color=3A4D98&center=true&width=435&lines=Hi+there!++I'm+aemehdi.)](https://git.io/typing-svg)
 
 
-
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
-
+<br> 
  <p > I'm a first-year Computer Science student from Algeria, <i> passionate about core fundamentals and problem-solving </i>.</p> <br> 
  <p><b>Feel free to browse around</b>, drop a star, or reach out if you'd like to collaborate or chat tech! </p>
- 
+ <br>
+ <br>
+ <br>
+ <br>
  
  <p align="left">
   <h2> Languages,Frameworks and Tools ⚙  : <h2/>
