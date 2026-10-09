@@ -5,8 +5,9 @@
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
 <br> 
- <p > I'm a first-year Computer Science student from Algeria, <i> passionate about core fundamentals and problem-solving </i>.</p> <br> 
+ <p > I'm a first-year Computer Science student from Algeria, <i><b> passionate about core fundamentals and problem-solving </b></i>.</p> <br> 
  <p><b>Feel free to browse around</b>, drop a star, or reach out if you'd like to collaborate or chat tech! </p>
+ 
  <br>
  <br>
  <br>
@@ -30,12 +31,14 @@
 
 </div>
 
-<div style="border-top: 3px solid red; padding-top: 20px; margin: 20px 0;">
-
-</div>
+ <p align="left">
+  <h2> Statues 📊: <h2/>
+</p>
+   
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aemehdi&theme=github-compact&radius=12&&line=36454F&area_color=808080&hide_border=true&area=true" />
-</a>
+</a> 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aemehdi&show_icons=true&theme=graywhite&text_color=9EBECB" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aemehdi&theme=graywhite&text_color=9EBECB" width="45%" />
