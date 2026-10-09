@@ -1,6 +1,6 @@
-<div align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=32&pause=1000&color=3A4D98&center=true&width=435&lines=Hi+there!++I'm+aemehdi.)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=32&pause=1000&color=3A4D98&center=true&width=435&lines=Hi+there!++I'm+aemehdi.)](https://git.io/typing-svg)
+
 
 
 <img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
@@ -16,7 +16,9 @@ Hey there! I’m Aelric, a student from Algeria who’s endlessly curious about 
   <div>
    <hr>
  <p align="left">
- ##Languages,Frameworks and Tools  :
+  
+  <h2> Languages,Frameworks and Tools  :
+   <h2/>
  </p>
 <p align="center">
   <a href="https://skillicons.dev">
