@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Handlee&pause=1000&color=27366FF6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+aemehdi+)](https://git.io/typing-svg)
 
-<img align="right" width="50%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
+<img align="center" width="100%" src="https://github.com/entlv/entlv/blob/main/images/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
  <p font-family: Coming Soon> 
 Hey there! I’m Aelric, a student from Algeria who’s endlessly curious about the world of computer science and the art of problem-solving.</p>
